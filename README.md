@@ -2,7 +2,7 @@
 Student Name: Rumanyika Arthur  
 Student ID:28944
 Course: Database Development with PL/SQL (INSY 8311)  
-**Instructor:** Eric Maniraguha  
+
 Group:C
 ## Problem Definition
 
@@ -32,5 +32,6 @@ The following measurable goals will guide the SQL window function analysis:
 
 5. Three-month moving average of sales
    - Use `AVG() OVER(ROWS BETWEEN 2 PRECEDING AND CURRENT ROW)` to analyze sales trends over time.
-
+## ERD
+screenshots/ERD.png
 
